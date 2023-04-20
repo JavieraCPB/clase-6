@@ -1,0 +1,43 @@
+[
+                {
+                    "img": ["https://picsum.photos/id/367/800/500.webp","https://picsum.photos/id/367/800/500.webp","https://picsum.photos/id/367/800/500.webp"],
+                    "title": "Libros",
+                    "text": "<p>Me gusta mucho leer y mi género favorito es la fantasía. Sin embargo prefiero comprar libros físicos porque se me cansa mucho la vista al leer de formatos digitales. </p>",
+                },
+                {
+                    "img":["https://picsum.photos/id/365/800/500.webp","https://picsum.photos/id/365/800/500.webp","https://picsum.photos/id/365/800/500.webp"],
+                    "title": "Tecito",
+                    "text": "<p>Mi té favorito es el té Chai pero tengo problemas con el azúcar, le hecho 20 gotitas al té, estoy tratando de disminuirlas pero ahora solo me sabe a agua y ya no lo disfruto. </p>"
+                },
+                {
+                    "img":["https://picsum.photos/id/431/800/500.webp","https://picsum.photos/id/431/800/500.webp","https://picsum.photos/id/431/800/500.webp"],
+                    title: "Cappuccino",
+                    text: "<p>Como dije anteriormente, tengo problemas con el azúcar. Me gusta mucho el Cappucino y el Mocha pero los deje para disminuir mi consumo de azúcarxd.</p>",
+                },
+                {
+                    "img":[ "https://picsum.photos/id/696/800/500.webp","https://picsum.photos/id/696/800/500.webp","https://picsum.photos/id/696/800/500.webp"],
+                    "title": "Tulipan",
+                    "text": "<p>Me gustan las flores, fin. </p>",
+                },
+                {
+                    "img": ["https://picsum.photos/id/881/800/500.webp","https://picsum.photos/id/881/800/500.webp","https://picsum.photos/id/881/800/500.webp"],
+                    "title": "Biología Marina",
+                    "text": "<p> Quería estudiar Biología Marina pero antes de matricularme me di cuenta que no estaba tan segura. Después me decidí por Diseño. </p>",
+                },
+                {
+                    "img":[ "https://picsum.photos/id/889/800/500.webp","https://picsum.photos/id/889/800/500.webp","https://picsum.photos/id/889/800/500.webp"],
+                    "title": "Fruta congelada",
+                    "text": "<p>Me gustan los frutos del bosque.</p>",
+                },
+                {
+                    "img":[ "https://picsum.photos/id/901/800/500.webp","https://picsum.photos/id/901/800/500.webp","https://picsum.photos/id/901/800/500.webp"],
+                    "title": "Aurora Boreal",
+                    "text": "<p>Sueño con ver una Aurora Boreal.</p>",
+                },
+                {
+                    "img": ["https://picsum.photos/id/546/800/500.webp","https://picsum.photos/id/546/800/500.webp","https://picsum.photos/id/546/800/500.webp"],
+                    "title": "Harry Potter",
+                    "text": "<p>Me recuerda a las peliculas de Harry Potter.</p>",
+                },
+
+            ]
